@@ -1,0 +1,19 @@
+# gateway引擎端口
+BaasGatewayPort: 
+# fabric引擎地址
+BaasFabricEngine: 
+# db配置
+BaasGatewayDbconfig: 
+# token
+IdentityServer:
+  HashSuffix: 
+# redis
+Redis:
+  Method: tcp
+  Url: 
+  Password:
+DES:
+  key: 
+Cookie:
+  Domain: .
+ChaincodePath: 

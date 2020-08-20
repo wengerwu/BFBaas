@@ -1,0 +1,10 @@
+xorm:
+  drivename: 
+  ip: 
+  port: 
+  database: 
+  user: 
+  password: 
+  showsql: 
+  maxidle: 
+  maxopen: 

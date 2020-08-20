@@ -1,0 +1,4 @@
+# k8s引擎端口
+BaasKubeEnginePort:
+# k8s集群master config
+BaasKubeMasterConfig: 

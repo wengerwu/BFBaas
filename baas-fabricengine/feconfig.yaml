@@ -1,0 +1,19 @@
+# fabric引擎端口
+BaasFabricEnginePort: 
+# baas 的根目录
+BaasRootPath: 
+# nfs server ip
+BaasNfsServer: 
+# k8s引擎地址
+BaasKubeEngine: 
+# 在baas根目录下nfs共享目录
+BaasNfsShared: 
+# 在baas根目录下fabric k8s模板目录
+BaasTemplate: 
+# 保存chaincode的gopath下的src目录
+BaasChaincodeGithub: 
+# 共识排序参数
+OrdererBatchTimeout: 
+OrdererMaxMessageCount:
+OrdererAbsoluteMaxBytes: 
+OrdererPreferredMaxBytes:  
