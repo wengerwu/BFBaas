@@ -21,7 +21,6 @@ More information: https://kubernetes.io/
 # Main Function  
 ## Dynamic fabric creation with different consensus  
 - solo  
-- kafka  
 - etcdraft  
 ## Block chain control  
 - Block chain dashboard statiscs & analysis  
